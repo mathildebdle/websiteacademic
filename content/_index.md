@@ -53,13 +53,9 @@ sections:
     content:
       title: Research in Progress
       text: |-
-        **Delegating Public Policies**  
+        **Delegating Public Policies, to what cost? Evidence from the French EEOs**  
         *Status: Work in Progress*  
-        This project studies how the delegation of public policy implementation affects efficiency, incentives, and inequality. It analyzes the conditions under which delegation to decentralized agents improves or distorts policy outcomes.
-
-        **Additional Projects**  
-        *Status: Early Stage*  
-        Additional projects in applied microeconomics and environmental economics are currently under development. They focus on the evaluation of public policies, market regulation, and distributional effects.
+        This project studies how Energy Efficiency Obligations (EEOs) affect pricing in retail energy markets. It develops a theoretical framework in which firms incorporate compliance costs into pricing while competing through differentiated contracts. The model characterizes the incidence of these regulatory costs on retail energy prices across suppliers and contract types.
     design:
       columns: "1"
       css_class: "section-compact research-list"
@@ -102,13 +98,8 @@ sections:
       title: Contact
       text: |-
         Email: [mathilde.badufle@eui.eu](mailto:mathilde.badufle@eui.eu)
-
-        Placeholder links for later completion:
-
-        - [GitHub](#)
-        - [Google Scholar](#)
-        - [SSRN](#)
-        - [LinkedIn](https://www.linkedin.com/in/mathilde-badufle-831087206)
+        
+        LinkedIn: [mathilde-badufle-831087206](https://www.linkedin.com/in/mathilde-badufle-831087206)
     design:
       columns: "1"
       css_class: "section-compact contact-section"
