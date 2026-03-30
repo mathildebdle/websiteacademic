@@ -26,16 +26,6 @@ sections:
       css_class: "hero-section"
 
   - block: markdown
-    id: about
-    content:
-      title: About
-      text: |-
-        I am a PhD researcher in economics at the European University Institute and affiliated with the Public Policies Institute (Paris School of Economics). My research focuses on applied microeconomics and environmental economics, with an emphasis on the design and evaluation of public policies.
-    design:
-      columns: "1"
-      css_class: "section-compact"
-
-  - block: markdown
     id: research-interests
     content:
       title: Research Interests

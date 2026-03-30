@@ -1,23 +1,19 @@
 main:
-  - name: About
-    url: '#about'
-    weight: 10
   - name: Research Interests
     url: '#research-interests'
-    weight: 20
+    weight: 10
   - name: Research in Progress
     url: '#research-in-progress'
-    weight: 30
+    weight: 20
   - name: CV
     url: '#cv'
-    weight: 40
+    weight: 30
   - name: Teaching
     url: '#teaching'
-    weight: 50
+    weight: 40
   - name: Talks
     url: '#talks-presentations'
-    weight: 60
+    weight: 50
   - name: Contact
     url: '#contact'
-    weight: 70
-
+    weight: 60
