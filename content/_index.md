@@ -16,7 +16,7 @@ sections:
           <p class="hero-summary">I am a PhD researcher in economics at the European University Institute and affiliated with the Public Policies Institute (Paris School of Economics). My research focuses on applied microeconomics and environmental economics, with an emphasis on the design and evaluation of public policies.</p>
           <p class="hero-actions">
             <a class="btn btn-primary btn-page-header" href="#research-in-progress">Research in Progress</a>
-            <a class="btn btn-outline-primary btn-page-header" href="/uploads/CV_Mathilde_Badufle.pdf">Download CV</a>
+            <a class="btn btn-outline-primary btn-page-header" href="uploads/CV_Mathilde_Badufle.pdf">Download CV</a>
           </p>
         </div>
     design:
@@ -67,7 +67,7 @@ sections:
       text: |-
         A PDF version of my curriculum vitae will be available here:
 
-        [Download CV](/uploads/CV_Mathilde_Badufle.pdf)
+        [Download CV](uploads/CV_Mathilde_Badufle.pdf)
     design:
       columns: "1"
       css_class: "section-compact"
