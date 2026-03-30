@@ -20,7 +20,6 @@ interests:
   - Public policy evaluation
   - Regulation and market design
 
-# Replace the placeholder links below with your actual profile URLs later on.
 social:
   - icon: envelope
     icon_pack: fas
@@ -36,9 +35,8 @@ social:
     link: '#'
   - icon: linkedin
     icon_pack: fab
-    link: '#'
+    link: 'https://www.linkedin.com/in/mathilde-badufle-831087206'
 
 user_groups:
   - Researchers
 ---
-

@@ -108,11 +108,8 @@ sections:
         - [GitHub](#)
         - [Google Scholar](#)
         - [SSRN](#)
-        - [LinkedIn](#)
-
-        <!-- Replace the placeholder links above with your profile URLs when ready. -->
+        - [LinkedIn](https://www.linkedin.com/in/mathilde-badufle-831087206)
     design:
       columns: "1"
       css_class: "section-compact contact-section"
 ---
-
