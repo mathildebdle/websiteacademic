@@ -1,0 +1,34 @@
+appearance:
+  theme_day: minimal
+  theme_night: minimal
+  color: neutral
+  font: minimal
+  font_size: L
+
+marketing:
+  seo:
+    site_type: Person
+    org_name: European University Institute
+    description: Academic website of Mathilde Badufle, PhD researcher in economics.
+
+header:
+  navbar:
+    enable: true
+    align: l
+    show_logo: false
+    show_language: false
+    show_day_night: false
+    highlight_active_link: true
+
+footer:
+  copyright:
+    notice: "© {year} Mathilde Badufle"
+  license:
+    enable: false
+
+features:
+  math:
+    enable: false
+  syntax_highlighter:
+    enable: false
+
