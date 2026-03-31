@@ -10,8 +10,8 @@ sections:
       subtitle: ""
       text: |-
         <div class="academic-hero">
-          <div class="hero-layout">
-            <div class="hero-copy">
+          <div class="hero-layout" style="display:grid;grid-template-columns:minmax(0,1fr)140px;column-gap:2rem;align-items:start;">
+            <div class="hero-copy" style="min-width:0;">
               <p class="hero-role">PhD Researcher in Economics</p>
               <h1>Mathilde Badufle</h1>
               <p class="hero-affiliation">European University Institute • Public Policies Institute (Paris School of Economics)</p>
@@ -21,8 +21,8 @@ sections:
                 <a class="btn btn-outline-primary btn-page-header" href="https://mathildebdle.github.io/websiteacademic/uploads/CV_Mathilde_Badufle.pdf">Download CV</a>
               </p>
             </div>
-            <div class="hero-portrait-wrap" style="justify-content:flex-end;align-self:flex-start;">
-              <img class="hero-portrait" src="media/mathilde-badufle-portrait.jpg" alt="Portrait of Mathilde Badufle" style="width:95px;height:95px;border-radius:16px;">
+            <div class="hero-portrait-wrap" style="display:flex;justify-content:flex-end;align-self:flex-start;">
+              <img class="hero-portrait" src="media/mathilde-badufle-portrait.jpg" alt="Portrait of Mathilde Badufle" style="width:128px;height:128px;border-radius:18px;object-fit:cover;">
             </div>
           </div>
         </div>
