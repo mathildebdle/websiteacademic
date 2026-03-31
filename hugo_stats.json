@@ -38,6 +38,7 @@
       "[&.active]:font-bold",
       "[&.active]:text-primary-500",
       "academic-hero",
+      "active",
       "align-middle",
       "bg-[var(--color-background)]",
       "bg-gray-100",
@@ -143,7 +144,6 @@
       "py-1",
       "py-10",
       "relative",
-      "research-list",
       "right-4",
       "rounded",
       "rounded-full",
@@ -175,12 +175,11 @@
       "z-[9999]"
     ],
     "ids": [
-      "about",
-      "contact",
-      "cv",
       "hb-notification-container",
       "hero",
       "hide-button",
+      "home-contact",
+      "home-research",
       "moon",
       "nav-menu",
       "nav-toggle",
@@ -190,8 +189,6 @@
       "show-button",
       "site-header",
       "sun",
-      "talks-presentations",
-      "teaching",
       "top"
     ]
   }

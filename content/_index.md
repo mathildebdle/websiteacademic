@@ -15,75 +15,32 @@ sections:
           <p class="hero-affiliation">European University Institute • Public Policies Institute (Paris School of Economics)</p>
           <p class="hero-summary">I am a PhD researcher in economics at the European University Institute and affiliated with the Public Policies Institute (Paris School of Economics). My research focuses on applied microeconomics and environmental economics, with an emphasis on the design and evaluation of public policies.</p>
           <p class="hero-actions">
-            <a class="btn btn-primary btn-page-header" href="#research-in-progress">Research in Progress</a>
+            <a class="btn btn-primary btn-page-header" href="research/">Research</a>
             <a class="btn btn-outline-primary btn-page-header" href="https://mathildebdle.github.io/websiteacademic/uploads/CV_Mathilde_Badufle.pdf">Download CV</a>
           </p>
         </div>
     design:
       columns: "1"
       spacing:
-        padding: ["5rem", "0", "3rem", "0"]
+        padding: ["6rem", "0", "4rem", "0"]
       css_class: "hero-section"
 
   - block: markdown
-    id: research-interests
+    id: home-research
     content:
-      title: Research Interests
+      title: Research
       text: |-
-        - Applied microeconomics
-        - Environmental economics
-        - Public policy evaluation
-        - Regulation and market design
+        My research lies in applied microeconomics and environmental economics, with a focus on public policy evaluation, regulation, and market design.
+
+        Current work examines how Energy Efficiency Obligations affect pricing in retail energy markets and how regulatory costs are transmitted across suppliers and contracts.
+
+        [View Research](research/)
     design:
       columns: "1"
       css_class: "section-compact"
 
   - block: markdown
-    id: research-in-progress
-    content:
-      title: Research in Progress
-      text: |-
-        **Delegating Public Policies, to what cost? Evidence from the French EEOs**  
-        *Status: Work in Progress*  
-        This project studies how Energy Efficiency Obligations (EEOs) affect pricing in retail energy markets. It develops a theoretical framework in which firms incorporate compliance costs into pricing while competing through differentiated contracts. The model characterizes the incidence of these regulatory costs on retail energy prices across suppliers and contract types.
-    design:
-      columns: "1"
-      css_class: "section-compact research-list"
-
-  - block: markdown
-    id: cv
-    content:
-      title: CV
-      text: |-
-        A PDF version of my curriculum vitae will be available here:
-
-        [Download CV](https://mathildebdle.github.io/websiteacademic/uploads/CV_Mathilde_Badufle.pdf)
-    design:
-      columns: "1"
-      css_class: "section-compact"
-
-  - block: markdown
-    id: teaching
-    content:
-      title: Teaching
-      text: |-
-        Teaching information will be added soon.
-    design:
-      columns: "1"
-      css_class: "section-compact"
-
-  - block: markdown
-    id: talks-presentations
-    content:
-      title: Talks / Presentations
-      text: |-
-        Presentations and conference talks will be added soon.
-    design:
-      columns: "1"
-      css_class: "section-compact"
-
-  - block: markdown
-    id: contact
+    id: home-contact
     content:
       title: Contact
       text: |-
