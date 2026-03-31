@@ -21,8 +21,8 @@ sections:
                 <a class="btn btn-outline-primary btn-page-header" href="https://mathildebdle.github.io/websiteacademic/uploads/CV_Mathilde_Badufle.pdf">Download CV</a>
               </p>
             </div>
-            <div class="hero-portrait-wrap">
-              <img class="hero-portrait" src="media/mathilde-badufle-portrait.jpg" alt="Portrait of Mathilde Badufle">
+            <div class="hero-portrait-wrap" style="justify-content:flex-end;align-self:flex-start;">
+              <img class="hero-portrait" src="media/mathilde-badufle-portrait.jpg" alt="Portrait of Mathilde Badufle" style="width:95px;height:95px;border-radius:16px;">
             </div>
           </div>
         </div>
