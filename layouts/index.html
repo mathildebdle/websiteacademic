@@ -1,0 +1,33 @@
+{{ define "main" }}
+  <section class="hero">
+    <div>
+      <p class="eyebrow">PhD Researcher in Economics</p>
+      <h1>Mathilde Badufle</h1>
+      <p class="affiliation">European University Institute • Public Policies Institute (Paris School of Economics)</p>
+      <p class="summary">I am a PhD researcher in economics at the European University Institute and affiliated with the Public Policies Institute (Paris School of Economics). My research focuses on applied microeconomics and environmental economics, with an emphasis on the design and evaluation of public policies.</p>
+      <div class="actions">
+        <a class="btn primary" href="{{ "research/" | relURL }}">Research</a>
+        <a class="btn" href="https://mathildebdle.github.io/websiteacademic/uploads/CV_Mathilde_Badufle.pdf">Download CV</a>
+      </div>
+    </div>
+    <div>
+      <img class="portrait" src="{{ "media/mathilde-badufle-portrait.jpg" | relURL }}" alt="Portrait of Mathilde Badufle">
+    </div>
+  </section>
+
+  <section class="grid">
+    <div class="card">
+      <h2>Research</h2>
+      <p>My research lies in applied microeconomics and environmental economics, with a focus on public policy evaluation, regulation, and market design.</p>
+      <p>Current work examines how Energy Efficiency Obligations affect pricing in retail energy markets and how regulatory costs are transmitted across suppliers and contracts.</p>
+      <p><a href="{{ "research/" | relURL }}">View research</a></p>
+    </div>
+
+    <div class="card">
+      <h2>Contact</h2>
+      <p>Email: <a href="mailto:mathilde.badufle@eui.eu">mathilde.badufle@eui.eu</a></p>
+      <p>LinkedIn: <a href="https://www.linkedin.com/in/mathilde-badufle-831087206">mathilde-badufle-831087206</a></p>
+    </div>
+  </section>
+{{ end }}
+
