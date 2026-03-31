@@ -15,6 +15,7 @@
       "head",
       "header",
       "html",
+      "img",
       "input",
       "label",
       "li",
@@ -81,6 +82,10 @@
       "header",
       "hero-actions",
       "hero-affiliation",
+      "hero-copy",
+      "hero-layout",
+      "hero-portrait",
+      "hero-portrait-wrap",
       "hero-role",
       "hero-section",
       "hero-summary",
@@ -189,6 +194,7 @@
       "show-button",
       "site-header",
       "sun",
+      "teaching-assistant",
       "top"
     ]
   }

@@ -4,6 +4,13 @@ summary: Teaching information.
 draft: false
 ---
 
-Teaching information will be added soon.
+## Teaching Assistant
 
-This page is ready for future updates on teaching assistantships, tutorials, and course contributions.
+- **New York University Florence** - Econometrics (Undergraduate level), Spring 2026  
+  Professor: Giampiero Gallo
+
+- **European University Institute** - Microeconomics (PhD level), Fall 2025  
+  Professor: Ozlem Bedre-Defolie
+
+- **Paris-Dauphine PSL** - Microeconomics (Undergraduate level), Fall 2023 and Spring 2024  
+  Professor: Sophie Meritet

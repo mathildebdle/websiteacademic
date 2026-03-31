@@ -10,14 +10,21 @@ sections:
       subtitle: ""
       text: |-
         <div class="academic-hero">
-          <p class="hero-role">PhD Researcher in Economics</p>
-          <h1>Mathilde Badufle</h1>
-          <p class="hero-affiliation">European University Institute • Public Policies Institute (Paris School of Economics)</p>
-          <p class="hero-summary">I am a PhD researcher in economics at the European University Institute and affiliated with the Public Policies Institute (Paris School of Economics). My research focuses on applied microeconomics and environmental economics, with an emphasis on the design and evaluation of public policies.</p>
-          <p class="hero-actions">
-            <a class="btn btn-primary btn-page-header" href="research/">Research</a>
-            <a class="btn btn-outline-primary btn-page-header" href="https://mathildebdle.github.io/websiteacademic/uploads/CV_Mathilde_Badufle.pdf">Download CV</a>
-          </p>
+          <div class="hero-layout">
+            <div class="hero-copy">
+              <p class="hero-role">PhD Researcher in Economics</p>
+              <h1>Mathilde Badufle</h1>
+              <p class="hero-affiliation">European University Institute • Public Policies Institute (Paris School of Economics)</p>
+              <p class="hero-summary">I am a PhD researcher in economics at the European University Institute and affiliated with the Public Policies Institute (Paris School of Economics). My research focuses on applied microeconomics and environmental economics, with an emphasis on the design and evaluation of public policies.</p>
+              <p class="hero-actions">
+                <a class="btn btn-primary btn-page-header" href="research/">Research</a>
+                <a class="btn btn-outline-primary btn-page-header" href="https://mathildebdle.github.io/websiteacademic/uploads/CV_Mathilde_Badufle.pdf">Download CV</a>
+              </p>
+            </div>
+            <div class="hero-portrait-wrap">
+              <img class="hero-portrait" src="media/profile-placeholder.svg" alt="Profile placeholder for Mathilde Badufle">
+            </div>
+          </div>
         </div>
     design:
       columns: "1"
