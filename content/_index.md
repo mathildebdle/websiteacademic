@@ -22,7 +22,7 @@ sections:
               </p>
             </div>
             <div class="hero-portrait-wrap">
-              <img class="hero-portrait" src="media/profile-placeholder.svg" alt="Profile placeholder for Mathilde Badufle">
+              <img class="hero-portrait" src="media/mathilde-badufle-portrait.jpg" alt="Portrait of Mathilde Badufle">
             </div>
           </div>
         </div>
