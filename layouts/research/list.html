@@ -1,0 +1,35 @@
+{{ define "main" }}
+  <section class="research-layout">
+    <aside class="research-sidebar">
+      <div class="info-card">
+        <h2>Fields</h2>
+        <ul class="info-list">
+          <li>Applied microeconomics</li>
+          <li>Environmental economics</li>
+          <li>Public policy evaluation</li>
+          <li>Regulation and market design</li>
+        </ul>
+      </div>
+
+      <div class="info-card">
+        <h2>Focus</h2>
+        <p class="muted">Current work examines the incidence of regulatory costs in retail energy markets, with a focus on Energy Efficiency Obligations.</p>
+      </div>
+    </aside>
+
+    <div class="research-main">
+      <article class="research-card">
+        <h1 class="page-title">{{ .Title }}</h1>
+        <p>My research focuses on applied microeconomics and environmental economics, with particular interest in public policy evaluation, regulation, and market design.</p>
+      </article>
+
+      <article class="research-card">
+        <h2>Research in Progress</h2>
+        <h3 class="project-title">Delegating Public Policies, to what cost? Evidence from the French EEOs</h3>
+        <div class="project-status">Work in Progress</div>
+        <p>This project studies how Energy Efficiency Obligations (EEOs) affect pricing in retail energy markets. It develops a theoretical framework in which firms incorporate compliance costs into pricing while competing through differentiated contracts. The model characterizes the incidence of these regulatory costs on retail energy prices across suppliers and contract types.</p>
+      </article>
+    </div>
+  </section>
+{{ end }}
+

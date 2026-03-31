@@ -216,6 +216,66 @@
     .content li { margin-bottom: 0.65rem; }
     .muted { color: var(--muted); }
 
+    .research-layout {
+      display: grid;
+      grid-template-columns: 0.78fr 1.22fr;
+      gap: 1.4rem;
+      align-items: start;
+    }
+
+    .research-sidebar {
+      display: grid;
+      gap: 1rem;
+      position: sticky;
+      top: 5.8rem;
+    }
+
+    .research-main {
+      display: grid;
+      gap: 1rem;
+    }
+
+    .research-card,
+    .info-card {
+      background: var(--card);
+      border: 1px solid rgba(199, 217, 234, 0.92);
+      border-radius: 22px;
+      padding: 1.5rem 1.6rem;
+      box-shadow: var(--shadow);
+    }
+
+    .info-card h2,
+    .research-card h2,
+    .research-card h3 {
+      margin-top: 0;
+      color: var(--title);
+      font-family: Baskerville, "Iowan Old Style", "Palatino Linotype", serif;
+      font-weight: 600;
+    }
+
+    .info-list {
+      margin: 0;
+      padding-left: 1.2rem;
+    }
+
+    .project-title {
+      margin-bottom: 0.45rem;
+      font-size: 1.5rem;
+      line-height: 1.25;
+    }
+
+    .project-status {
+      display: inline-block;
+      margin-bottom: 0.9rem;
+      padding: 0.28rem 0.7rem;
+      border-radius: 999px;
+      background: rgba(95, 142, 184, 0.12);
+      color: #486f93;
+      font-size: 0.86rem;
+      font-weight: 600;
+      letter-spacing: 0.01em;
+    }
+
     .site-footer {
       width: min(1100px, calc(100% - 2rem));
       margin: 0 auto 2rem;
@@ -226,9 +286,15 @@
 
     @media (max-width: 900px) {
       .hero,
-      .grid {
+      .grid,
+      .research-layout {
         grid-template-columns: 1fr;
       }
+
+      .research-sidebar {
+        position: static;
+      }
+
       .portrait {
         width: 190px;
         height: 190px;
@@ -266,4 +332,3 @@
   </div>
 </body>
 </html>
-
